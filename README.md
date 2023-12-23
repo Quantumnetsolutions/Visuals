@@ -1,5 +1,5 @@
 # Visuals
 
-- [Organization Chart](https://github.com/Quantumnetsolutions/Visuals/blob/main/TarantinoTech_organization_chart.png)
-- [Network Topology](https://raw.githubusercontent.com/Quantumnetsolutions/Visuals/main/tarantinotech_topology.png)
+- [Organization Chart](https://github.com/Quantumnetsolutions/Visuals/blob/main/chartorg_tarantino.drawio.png)
+- [Network Topology](https://github.com/Quantumnetsolutions/Visuals/blob/main/tarantino_topology.drawio%20(1).png)
 - [AAA Authentication](Authentication.png)
